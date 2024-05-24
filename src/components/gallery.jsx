@@ -6,7 +6,7 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Photos de sports</h2>
+          <h2>Photos</h2>
           <p>
             Découvrez des photos de nos stades partenaires !
           </p>
