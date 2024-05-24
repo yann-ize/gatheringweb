@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "GatheringSports",
+    "paragraph": "Découvrez une toute nouvelle façon de pratiquer le sport !"
+  },
+  "About": {
+    "paragraph": "Nous sommes une équipe passionnée qui a créé l'application GatheringSport, dédiée à rassembler les amateurs de sport. Notre application permet de pratiquer divers sports dans les stades près de chez vous, en compagnie d'autres personnes partageant la même passion. En utilisant GatheringSport, vous pouvez non seulement découvrir de nouvelles activités et faire des rencontres enrichissantes, mais aussi participer à un classement pour évaluer vos performances. Nous visons à promouvoir une communauté active et soudée autour du sport et du bien-être.",
+    "Why": [
+      "Communauté Active",
+      "Accessibilité",
+      "Événements Organisés",
+      "Classement et Compétitions"
+    ],
+    "Why2": [
+      "Variété de Sports",
+      "Interface Intuitive",
+      "Mises à Jour Régulières",
+      "Sécurité et Confiance"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Foot",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Foot",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Foot",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Tennis",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Tennis",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Tennis",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Basket",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Basket",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Foot",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-futbol-o",
+      "name": "Jouez à différents sports",
+      "text": "Pratiquez divers sports tels que le foot, le basket et le tennis ⚽🏀🎾"
+    },
+    {
+      "icon": "fa fa-group",
+      "name": "Rencontrez",
+      "text": "Rencontrez de nouvelles personnes et élargissez votre cercle social 🤝"
+    },
+    {
+      "icon": "fa fa-trophy",
+      "name": "Classement & Event",
+      "text": "Relevez des défis en participant à notre classement et à nos évenements et tournois compétitifs"
+    },
+    {
+      "icon": "fa fa-globe",
+      "name": "Disponibilité",
+      "text": "Profitez de la disponibilité de nos services dans toutes les villes très prochainement 🌎"
+    },
+    {
+      "icon": "fa fa-certificate",
+      "name": "Partenariats",
+      "text": "Bénéficiez de tarifs avantageux grâce à nos collaborations 📉✅"
+    },
+    {
+      "icon": "fa fa-credit-card",
+      "name": "Paiements Sécurisés",
+      "text": "Effectuez vos paiements en toute sécurité sur notre plateforme 💳🛡️✅"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "GatheringSport m'a permis de rencontrer des gens formidables et de pratiquer mes sports préférés près de chez moi. L'application est intuitive et les événements sont toujours bien organisés. Je recommande vivement !",
+      "name": "Yanis"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text":"J'adore participer aux tournois organisés par GatheringSport. C'est une excellente façon de se challenger et de progresser. Les matchs sont toujours équitables et amusants",
+      "name": "Clement"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "Grâce à GatheringSport, j'ai pu découvrir de nouveaux sports et faire de nouvelles rencontres. L'ambiance est toujours conviviale et les tarifs sont très abordables, spécialement l'abonnement sur lequel j'ai foncé !",
+      "name": "Emma"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "L'application est super facile à utiliser et me permet de trouver rapidement des terrains de sport disponibles dans ma ville. La sécurité des paiements est également un plus appréciable",
+      "name": "Lucas"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "Les événements sportifs organisés par GatheringSport sont toujours un succès. J'aime pouvoir m'inscrire à des tournois et rencontrer des gens qui partagent la même passion pour le sport",
+      "name": "Sophie"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "Service de qualité, très bon rapport qualité-prix. Les collaborations permettent de bénéficier de tarifs attractifs, et l'application est parfaite pour rester actif et socialiser.",
+      "name": "Alex"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Marko Radovanovic",
+      "job": "CEO"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Hicham Guergueb",
+      "job": "C0O"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Ronan Noamane",
+      "job": "CMO"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Yann Izeghlouche",
+      "job": "CTO"
+    }
+  ],
+  "Contact": {
+    "address": "44 Bd Auguste Blanqui, 75013 Paris",
+    "phone": "07 51 07 27 05",
+    "email": "gatheringsports@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Communiquez",
+      "text": "La base du sport, c'est de communiquer et d'échanger pour s'amuser au mieux 😊"
+    },
+    {
+      "icon": "fa fa-trophy",
+      "title": "Classement",
+      "text": "Chaque match vous rapporte des points selon vos performances, essayez d'atteindre les sommets ! 📈🏆"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Rencontrez",
+      "text": "Garder l'esprit d'équipe ! Tout le monde peut jouer ensemble 💪"
+    },
+    {
+      "icon": "fa fa-gamepad",
+      "title": "Profitez",
+      "text": "Le plus important c'est de s'amuser, c'est l'axe principal de notre projet"
+    }
+  ]
+}
