@@ -168,7 +168,7 @@
     {
       "icon": "fa fa-trophy",
       "title": "Classement",
-      "text": "Chaque match vous rapporte des points selon vos performances, essayez d'atteindre les sommets ! 📈🏆"
+      "text": "Chaque match vous rapporte des points selon vos performances, essayez d'atteindre les sommets ! 📈"
     },
     {
       "icon": "fa fa-group",
@@ -178,7 +178,7 @@
     {
       "icon": "fa fa-gamepad",
       "title": "Profitez",
-      "text": "Le plus important c'est de s'amuser, c'est l'axe principal de notre projet"
+      "text": "Le plus important c'est de s'amuser, c'est l'axe principal de notre projet 🎮"
     }
   ]
 }
